@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 //Java program to print all the permutations 
 //of the given string 

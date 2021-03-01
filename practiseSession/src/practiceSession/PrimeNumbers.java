@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 /*top 10 prime no.*/
 public class PrimeNumbers {

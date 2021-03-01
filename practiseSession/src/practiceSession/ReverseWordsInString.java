@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 
 /*  input  "java is object oriented"

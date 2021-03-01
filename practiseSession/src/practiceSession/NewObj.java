@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 // sort length wise
 public class NewObj {

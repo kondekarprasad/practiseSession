@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 /* asked in auto rabbit */
 public class AlphabeticalSorting {
 

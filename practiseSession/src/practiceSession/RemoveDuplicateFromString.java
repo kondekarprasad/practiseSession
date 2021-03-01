@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 /* remove duplicate from String */
 
 public class RemoveDuplicateFromString {

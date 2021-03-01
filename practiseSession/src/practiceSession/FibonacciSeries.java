@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 public class FibonacciSeries {
 	static int temp = 0, placeHolder = 1, fibonacci;

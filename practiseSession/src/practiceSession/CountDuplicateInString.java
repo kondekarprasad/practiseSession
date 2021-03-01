@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 /*count duplicate in string*/
 public class CountDuplicateInString {

@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 public class DeleteFromArray {
 	static int count = 5;

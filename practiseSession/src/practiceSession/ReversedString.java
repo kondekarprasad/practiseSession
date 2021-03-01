@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 class ReversedString {
 

@@ -1,4 +1,4 @@
-package winner;import pattern.Test1;
+package practiceSession;import pattern.Test1;
 
 public class Arraydeletion {
 	

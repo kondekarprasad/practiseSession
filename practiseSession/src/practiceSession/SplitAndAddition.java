@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 import java.util.Scanner;
 

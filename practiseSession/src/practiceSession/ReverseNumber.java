@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 public class ReverseNumber {
     /* Iterative function to reverse 

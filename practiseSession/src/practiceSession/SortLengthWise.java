@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 public class SortLengthWise {
 	String[] string1 = { "java", "is", "object", "oriented", "programming" };

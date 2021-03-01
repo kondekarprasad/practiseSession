@@ -1,4 +1,4 @@
-package winner;
+package practiceSession;
 
 public class HighestElememtInArray {
 	public static void main(String[] args) {
