@@ -1,9 +1,9 @@
 package pattern;
 
-public class Test3 {
+public class DiamondWithSpace {
 
 	public static void main(String[] args) {
-		new Test3().m1();
+		new DiamondWithSpace().m1();
 	}
 
 	private void m1() {
