@@ -7,7 +7,7 @@ public class DiamondWithSpace {
 	}
 
 	private void m1() {
-		// outer increment inner decreament
+		// outer increment inner decrement
 		for (int i = 0; i < 7; i++) {
 			System.out.println();
 			for (int j = 7; j>0; j--) {
