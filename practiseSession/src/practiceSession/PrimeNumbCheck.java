@@ -3,7 +3,7 @@ package practiceSession;
 public class PrimeNumbCheck {
 
 	public static void main(String args[]) {
-		int num = 9, temp;
+		int num = 18, temp;
 		boolean isPrime = true;
 
 		for (int i = 2; i <= num / 2; i++) {

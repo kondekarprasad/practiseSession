@@ -23,10 +23,11 @@ public class AdditionOfhighestAndLowestThree {
 		for (int i = 0; i < abc.length; i++) {
 			System.out.print(abc[i] + " ");
 		}
-		/*int temp = abc[1] + abc[2] + abc[0];
+		System.out.println();
+		int temp = abc[1] + abc[2] + abc[0];
 		int temp2 = abc[abc.length - 1] + abc[abc.length - 2] + abc[abc.length - 3];
 		System.out.println("addition of highest is" + temp);
-		System.out.println("addition of lowest is" + temp2);*/
+		System.out.println("addition of lowest is" + temp2);
 
 	}
 

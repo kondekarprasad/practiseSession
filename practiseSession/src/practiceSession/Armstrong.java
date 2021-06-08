@@ -10,7 +10,7 @@ public class Armstrong {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println();
 		int number = scanner.nextInt();
-		temp=number;
+		temp = number;
 		for (int i = 0; i <= 3; i++) {
 			reminder = temp % 10;
 			temp = temp / 10;
@@ -20,7 +20,7 @@ public class Armstrong {
 		if (calc == number) {
 			System.out.println(number + " is armstrong");
 
-		}else {
+		} else {
 			System.out.println("not armstrong");
 		}
 		scanner.close();

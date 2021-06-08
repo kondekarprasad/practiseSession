@@ -2,8 +2,9 @@ package practiceSession;
 /* remove duplicate from String */
 
 public class RemoveDuplicateFromString {
-	 void duplicateRemove(String string) {
+	void duplicateRemove(String string) {
 		char[] chars = string.toCharArray();
+		char[] char2 = new char[12];
 		boolean repeatedChar;
 		for (int i = 0; i < chars.length; i++) {
 			repeatedChar = false;
@@ -11,7 +12,7 @@ public class RemoveDuplicateFromString {
 			for (int j = i + 1; j < chars.length; j++) {
 				if (chars[i] == chars[j]) {
 					repeatedChar = true;
-					chars[i]=chars[i+1];
+					chars[i] = chars[i + 1];
 					break;
 				}
 			}
@@ -19,7 +20,6 @@ public class RemoveDuplicateFromString {
 				System.out.print(chars[i]);
 			}
 		}
-		
 
 	}
 

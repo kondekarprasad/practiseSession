@@ -1,11 +1,12 @@
 package practiceSession;
 
+import java.util.Scanner;
 
 /*  input  "java is object oriented"
   output "avaj si tcejbo detniero "*/
  
 public class ReverseWordsInString {
-	public static void main(String[] args) {
+/*	public static void main(String[] args) {
 		String string = "java is object oriented";
 		String[] stringArray = string.split(" ");
 		for (int i = 0; i < stringArray.length; i++) {
@@ -15,8 +16,8 @@ public class ReverseWordsInString {
 			}
 		System.out.print(" ");
 		}
-	}
-	/*public static void main(String[] args) {
+	}*/
+	public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Original string : ");
  
@@ -38,5 +39,5 @@ public class ReverseWordsInString {
          // Displaying the string after reverse
         System.out.println("Reversed string : " + reversedString);
     }
-*/
+
 }
